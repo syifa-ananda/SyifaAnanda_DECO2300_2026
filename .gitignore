@@ -1,0 +1,30 @@
+# macOS
+.DS_Store
+
+# Unity generated folders
+DECO2300/[Ll]ibrary/
+DECO2300/[Tt]emp/
+DECO2300/[Oo]bj/
+DECO2300/[Bb]uild/
+DECO2300/[Bb]uilds/
+DECO2300/[Ll]ogs/
+DECO2300/[Uu]ser[Ss]ettings/
+DECO2300/[Mm]emoryCaptures/
+
+# Crash files
+DECO2300/mono_crash*.json
+
+# IDE / editor files
+.vscode/
+.idea/
+.vs/
+*.csproj
+*.sln
+*.user
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+DECO2300/Assets/_Recovery/
+DECO2300/Assets/_Recovery.meta
